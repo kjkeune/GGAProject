@@ -1,0 +1,591 @@
+club_from,club_to,transfers
+Juventus,Bayern Munich,1
+Liverpool,Bayern Munich,1
+Stade Rennais,Bayern Munich,1
+Ajax,Bayern Munich,3
+FC Bayern II,Bayern Munich,2
+Rangers,Bayern Munich,1
+Werder Bremen,Bayern Munich,1
+Dynamo Dresden,Bayern Munich,1
+1. FC Köln,Bayern Munich,2
+Sunderland,Bayern Munich,1
+TSG Hoffenheim,Bayern Munich,1
+RSC Anderlecht,Bayern Munich,1
+Bayern Munich,Barcelona,1
+Bayern Munich,Sevilla FC,1
+Bayern Munich,Leeds,1
+Bayern Munich,Crystal Palace,1
+Bayern Munich,Nottm Forest,1
+Bayern Munich,Bologna,1
+Bayern Munich,FC Lugano,1
+Bayern Munich,Austria Vienna,1
+Bayern Munich,E. Braunschweig,1
+Bayern Munich,Bor. Dortmund,1
+Bayern Munich,Olympique Lyon,1
+Bayern Munich,Excelsior,1
+Bayern Munich,Rangers,1
+Bayern Munich,Vitesse,1
+Bayern Munich,Hannover 96,1
+Ajax,Borussia Dortmund,1
+RB Salzburg,Borussia Dortmund,1
+SC Freiburg,Borussia Dortmund,1
+1. FC Köln,Borussia Dortmund,2
+Bayern Munich,Borussia Dortmund,1
+Hertha BSC,Borussia Dortmund,1
+Jahn Regensburg,Borussia Dortmund,1
+B. Dortmund U19,Borussia Dortmund,2
+Borussia Dortmund,Man City,2
+Borussia Dortmund,1. FC Köln,1
+Borussia Dortmund,St. Louis CITY,1
+Borussia Dortmund,FC Basel,1
+Borussia Dortmund,Atlético Madrid,1
+Borussia Dortmund,Without Club,1
+Borussia Dortmund,Retired,1
+Borussia Dortmund,Real Madrid,1
+Borussia Dortmund,VfL Wolfsburg,1
+Sparta Prague,Bayer 04 Leverkusen,1
+Chelsea,Bayer 04 Leverkusen,1
+Leverkusen U19,Bayer 04 Leverkusen,2
+RKC Waalwijk,Bayer 04 Leverkusen,1
+Nuremberg II,Bayer 04 Leverkusen,1
+Werder Bremen,Bayer 04 Leverkusen,1
+C. Rizespor,Bayer 04 Leverkusen,1
+Genoa,Bayer 04 Leverkusen,1
+Bayer 04 Leverkusen,E. Frankfurt,1
+Bayer 04 Leverkusen,Venezia,1
+Bayer 04 Leverkusen,Werder Bremen,1
+Bayer 04 Leverkusen,1.FC Düren,1
+Bayer 04 Leverkusen,FC Augsburg,1
+Bayer 04 Leverkusen,1.FC Nuremberg,2
+Bayer 04 Leverkusen,Union Berlin,1
+TSG Hoffenheim,RB Leipzig,1
+Chelsea,RB Leipzig,1
+VfL Wolfsburg,RB Leipzig,2
+Paris SG,RB Leipzig,1
+Heracles Almelo,RB Leipzig,1
+RB Leipzig U19,RB Leipzig,4
+1.FC Nuremberg,RB Leipzig,2
+PSV Eindhoven,RB Leipzig,1
+Austria Vienna,RB Leipzig,1
+Hallescher FC,RB Leipzig,2
+Real Sociedad,RB Leipzig,1
+Wolves,RB Leipzig,1
+Leicester,RB Leipzig,1
+Ajax,RB Leipzig,1
+Valencia,RB Leipzig,1
+E. Braunschweig,RB Leipzig,1
+KV Oostende,RB Leipzig,1
+RB Leipzig,Leeds,1
+RB Leipzig,Wolves,1
+RB Leipzig,Ajax,1
+RB Leipzig,Paris SG,1
+RB Leipzig,Atalanta BC,1
+RB Leipzig,Real Sociedad,1
+RB Leipzig,1. FC Köln,2
+RB Leipzig,Standard Liège,1
+RB Leipzig,FC Schalke 04,2
+RB Leipzig,Greuther Fürth,1
+RB Leipzig,SC Verl,1
+RB Leipzig,FC Lorient,1
+RB Leipzig,A. Klagenfurt,1
+RB Leipzig,Arm. Bielefeld,1
+RB Leipzig,E. Braunschweig,1
+RB Leipzig,Dynamo Dresden,1
+RB Leipzig,Holstein Kiel,1
+RB Leipzig,Viktoria Köln,1
+RB Leipzig,Valencia,1
+RB Leipzig,TSG Hoffenheim,1
+RB Leipzig,Genoa,1
+RB Leipzig,Retired,1
+RB Leipzig,Sligo Rovers,1
+BSC Young Boys,1.FC Union Berlin,1
+Greuther Fürth,1.FC Union Berlin,2
+Sampdoria,1.FC Union Berlin,1
+FC Porto,1.FC Union Berlin,1
+VfL Bochum,1.FC Union Berlin,1
+Darmstadt 98,1.FC Union Berlin,1
+Vitesse,1.FC Union Berlin,1
+SC Freiburg,1.FC Union Berlin,1
+Bay. Leverkusen,1.FC Union Berlin,1
+KV Mechelen,1.FC Union Berlin,1
+Legia Warszawa,1.FC Union Berlin,1
+KuPS,1.FC Union Berlin,1
+Trabzonspor,1.FC Union Berlin,1
+Sunderland,1.FC Union Berlin,1
+1.FSV Mainz 05,1.FC Union Berlin,1
+A. Klagenfurt,1.FC Union Berlin,2
+1.FC Union Berlin,Nottm Forest,1
+1.FC Union Berlin,1.FSV Mainz 05,1
+1.FC Union Berlin,Sunderland,1
+1.FC Union Berlin,VfL Bochum,1
+1.FC Union Berlin,KAS Eupen,1
+1.FC Union Berlin,Arm. Bielefeld,1
+1.FC Union Berlin,Legia Warszawa,1
+1.FC Union Berlin,1.FC K'lautern,1
+1.FC Union Berlin,IFK Göteborg,1
+1.FC Union Berlin,TSG Hoffenheim,1
+1.FC Union Berlin,E. Braunschweig,2
+1.FC Union Berlin,Millwall,1
+1.FC Union Berlin,Hansa Rostock,1
+1.FC Union Berlin,Bohemians,1
+PSV Eindhoven,SC Freiburg,1
+FC St. Pauli,SC Freiburg,1
+FC Ingolstadt,SC Freiburg,1
+Bor. M'gladbach,SC Freiburg,1
+FC Augsburg,SC Freiburg,2
+SC Freiburg II,SC Freiburg,2
+Greuther Fürth,SC Freiburg,1
+SC Verl,SC Freiburg,1
+SC Freiburg,Bor. Dortmund,1
+SC Freiburg,Greuther Fürth,1
+SC Freiburg,Union Berlin,1
+SC Freiburg,SC Verl,1
+SC Freiburg,FC Augsburg,2
+SC Freiburg,FC Winterthur,1
+1.FSV Mainz 05,1. FC Köln,2
+TSG Hoffenheim,1. FC Köln,1
+Bor. Dortmund,1. FC Köln,1
+NK Lokomotiva,1. FC Köln,1
+K. Offenbach,1. FC Köln,1
+Hannover 96,1. FC Köln,1
+Birmingham,1. FC Köln,1
+1.FC Köln II,1. FC Köln,1
+1.FC Köln U19,1. FC Köln,1
+Aarhus GF,1. FC Köln,1
+Twente FC,1. FC Köln,1
+1. FC Köln,Bor. Dortmund,2
+1. FC Köln,Udinese Calcio,1
+1. FC Köln,Aarhus GF,1
+1. FC Köln,Hannover 96,1
+1. FC Köln,St. Louis CITY,1
+1. FC Köln,VfL Bochum,2
+1. FC Köln,Dynamo Dresden,1
+1. FC Köln,Holstein Kiel,1
+1. FC Köln,1.FSV Mainz 05,2
+Angers SCO,1.FSV Mainz 05,1
+VfL Bochum,1.FSV Mainz 05,2
+Union Berlin,1.FSV Mainz 05,1
+Heracles Almelo,1.FSV Mainz 05,1
+E. Frankfurt,1.FSV Mainz 05,3
+R. Strasbourg,1.FSV Mainz 05,3
+Mainz 05 U19,1.FSV Mainz 05,3
+FSV Mainz 05 II,1.FSV Mainz 05,2
+Stade Brestois,1.FSV Mainz 05,1
+Sint-Truiden,1.FSV Mainz 05,1
+Admira Wacker,1.FSV Mainz 05,1
+HNK Rijeka,1.FSV Mainz 05,1
+Hansa Rostock,1.FSV Mainz 05,1
+BSC Young Boys,1.FSV Mainz 05,1
+1.FSV Mainz 05,Nottm Forest,1
+1.FSV Mainz 05,Sporting CP,1
+1.FSV Mainz 05,FC St. Pauli,1
+1.FSV Mainz 05,KV Mechelen,1
+1.FSV Mainz 05,Dynamo Dresden,1
+1.FSV Mainz 05,VfL Bochum,2
+1.FSV Mainz 05,Hertha BSC,2
+1.FSV Mainz 05,Hansa Rostock,1
+1.FSV Mainz 05,Karlsruher SC,1
+1.FSV Mainz 05,R. Strasbourg,1
+1.FSV Mainz 05,Without Club,2
+1.FSV Mainz 05,SV Sandhausen,1
+1.FSV Mainz 05,E. Frankfurt,1
+1.FSV Mainz 05,Union Berlin,1
+1.FSV Mainz 05,Heracles Almelo,1
+Club Brugge,TSG 1899 Hoffenheim,2
+FC Schalke 04,TSG 1899 Hoffenheim,1
+Frankfurt U19,TSG 1899 Hoffenheim,1
+FC St. Pauli,TSG 1899 Hoffenheim,1
+Union Berlin,TSG 1899 Hoffenheim,1
+RB Leipzig,TSG 1899 Hoffenheim,1
+Sporting CP,TSG 1899 Hoffenheim,1
+Panathinaikos,TSG 1899 Hoffenheim,1
+Sint-Truiden,TSG 1899 Hoffenheim,1
+FC Groningen,TSG 1899 Hoffenheim,1
+VfL Bochum,TSG 1899 Hoffenheim,1
+Jahn Regensburg,TSG 1899 Hoffenheim,1
+TSG 1899 Hoffenheim,RB Leipzig,1
+TSG 1899 Hoffenheim,St. Louis CITY,1
+TSG 1899 Hoffenheim,1. FC Köln,1
+TSG 1899 Hoffenheim,AEK Athens,1
+TSG 1899 Hoffenheim,FC St. Pauli,1
+TSG 1899 Hoffenheim,VfL Bochum,1
+TSG 1899 Hoffenheim,Greuther Fürth,1
+TSG 1899 Hoffenheim,FC Basel,1
+TSG 1899 Hoffenheim,PEC Zwolle,1
+TSG 1899 Hoffenheim,Bologna,1
+TSG 1899 Hoffenheim,Hoffenheim II,1
+TSG 1899 Hoffenheim,Without Club,2
+TSG 1899 Hoffenheim,Bayern Munich,1
+Toulouse,Borussia Mönchengladbach,1
+Man City,Borussia Mönchengladbach,1
+FC Midtjylland,Borussia Mönchengladbach,1
+Benfica,Borussia Mönchengladbach,1
+M'gladbach U19,Borussia Mönchengladbach,2
+Swansea,Borussia Mönchengladbach,1
+KAS Eupen,Borussia Mönchengladbach,1
+Académico Viseu,Borussia Mönchengladbach,1
+FC Ingolstadt,Borussia Mönchengladbach,1
+Sint-Truiden,Borussia Mönchengladbach,1
+Viktoria Köln,Borussia Mönchengladbach,1
+Borussia Mönchengladbach,Monaco,1
+Borussia Mönchengladbach,Hamburger SV,1
+Borussia Mönchengladbach,SC Freiburg,1
+Borussia Mönchengladbach,Aalborg BK,1
+Borussia Mönchengladbach,Académico Viseu,1
+Borussia Mönchengladbach,Burnley,1
+Borussia Mönchengladbach,Roda JC,1
+Borussia Mönchengladbach,SV Meppen,1
+Borussia Mönchengladbach,Without Club,1
+AC Milan,Eintracht Frankfurt,1
+Bay. Leverkusen,Eintracht Frankfurt,1
+PSV Eindhoven,Eintracht Frankfurt,2
+Dinamo Zagreb,Eintracht Frankfurt,1
+HNK Rijeka,Eintracht Frankfurt,1
+Royal Antwerp,Eintracht Frankfurt,1
+RB Salzburg,Eintracht Frankfurt,1
+Hamburger SV,Eintracht Frankfurt,1
+FC Nantes,Eintracht Frankfurt,1
+FC Bayern U19,Eintracht Frankfurt,1
+Juventus,Eintracht Frankfurt,1
+Paris SG,Eintracht Frankfurt,1
+Frankfurt U19,Eintracht Frankfurt,1
+E. Frankfurt II,Eintracht Frankfurt,1
+Austria Vienna,Eintracht Frankfurt,1
+1.FSV Mainz 05,Eintracht Frankfurt,1
+Hallescher FC,Eintracht Frankfurt,1
+AEK Athens,Eintracht Frankfurt,1
+Viktoria Köln,Eintracht Frankfurt,1
+FC Schalke 04,Eintracht Frankfurt,1
+NEC Nijmegen,Eintracht Frankfurt,1
+Eintracht Frankfurt,Juventus,2
+Eintracht Frankfurt,AEK Athens,1
+Eintracht Frankfurt,1.FSV Mainz 05,3
+Eintracht Frankfurt,FC Schalke 04,1
+Eintracht Frankfurt,Hellas Verona,1
+Eintracht Frankfurt,Real Madrid U19,1
+Eintracht Frankfurt,Genoa,1
+Eintracht Frankfurt,1.FC K'lautern,1
+Eintracht Frankfurt,Viktoria Köln,1
+Eintracht Frankfurt,Sirnitz,1
+Eintracht Frankfurt,Young Violets,1
+Eintracht Frankfurt,Celta de Vigo,1
+Eintracht Frankfurt,KAA Gent,1
+Eintracht Frankfurt,Göztepe,1
+Eintracht Frankfurt,Hannover 96,1
+Eintracht Frankfurt,Greuther Fürth,1
+Eintracht Frankfurt,E. Frankfurt II,2
+Eintracht Frankfurt,AC Milan,1
+Eintracht Frankfurt,Atalanta BC,1
+Eintracht Frankfurt,Dinamo Zagreb,1
+Lech Poznan,VfL Wolfsburg,1
+Bologna,VfL Wolfsburg,1
+Dinamo Zagreb,VfL Wolfsburg,1
+Arm. Bielefeld,VfL Wolfsburg,1
+1.FC Nuremberg,VfL Wolfsburg,1
+FC Augsburg U19,VfL Wolfsburg,1
+Wolfsburg U19,VfL Wolfsburg,1
+G. Bordeaux,VfL Wolfsburg,1
+Torino,VfL Wolfsburg,1
+Bor. Dortmund,VfL Wolfsburg,1
+VfB Stuttgart,VfL Wolfsburg,2
+VfL Bochum,VfL Wolfsburg,2
+SKN St. Pölten,VfL Wolfsburg,2
+VfL Wolfsburg,Fulham,1
+VfL Wolfsburg,AC Milan,1
+VfL Wolfsburg,FC Augsburg,2
+VfL Wolfsburg,FC Lugano,1
+VfL Wolfsburg,Vitesse,1
+VfL Wolfsburg,Nuremberg II,1
+VfL Wolfsburg,Benfica,1
+VfL Wolfsburg,NAC Breda,2
+VfL Wolfsburg,Lecce,1
+VfL Wolfsburg,Without Club,3
+VfL Wolfsburg,Hertha BSC,2
+Union Berlin,VfL Bochum,1
+VfB Stuttgart,VfL Bochum,2
+TSG Hoffenheim,VfL Bochum,1
+Arsenal U21,VfL Bochum,1
+Kairat Almaty,VfL Bochum,1
+Karlsruher SC,VfL Bochum,1
+Sheff Utd,VfL Bochum,1
+Hamburger SV,VfL Bochum,1
+Real Valladolid,VfL Bochum,1
+VfL Bochum U19,VfL Bochum,2
+Dynamo Moscow,VfL Bochum,1
+Cercle Brugge,VfL Bochum,1
+VfL Bochum,Southampton,1
+VfL Bochum,FC Schalke 04,2
+VfL Bochum,RW Essen,1
+VfL Bochum,Greifswalder FC,1
+VfL Bochum,Persepolis,1
+VfL Bochum,Union Berlin,1
+VfL Bochum,E. Braunschweig,2
+VfL Bochum,VfL Osnabrück,1
+VfL Bochum,APOEL Nicosia,1
+VfL Bochum,SKN St. Pölten,1
+VfL Bochum,Without Club,1
+VfL Bochum,TSG Hoffenheim,1
+VfL Bochum,Hertha BSC,2
+Hertha BSC,FC Augsburg,2
+Fenerbahce,FC Augsburg,1
+Greuther Fürth,FC Augsburg,1
+Bay. Leverkusen,FC Augsburg,1
+FC Augsburg II,FC Augsburg,1
+FC Augsburg U19,FC Augsburg,1
+SC Verl,FC Augsburg,1
+1.FC Magdeburg,FC Augsburg,1
+Wehen Wiesbaden,FC Augsburg,1
+1.FC Heidenheim,FC Augsburg,1
+1.FC K'lautern,FC Augsburg,1
+FC Augsburg,FC Groningen,1
+FC Augsburg,FC Ingolstadt,1
+FC Augsburg,Wolfsberger AC,1
+FC Augsburg,Jahn Regensburg,1
+FC Augsburg,NK Varazdin,1
+FC Augsburg,Bohemians 1905,1
+FC Augsburg,Lyngby BK,1
+FC Augsburg,A. Lustenau,1
+FC Augsburg,RW Essen,1
+FC Augsburg,Hertha BSC,4
+FC Augsburg,Brighton,1
+Hamburger SV,VfB Stuttgart,1
+Arsenal,VfB Stuttgart,1
+FC Midtjylland,VfB Stuttgart,1
+PAS Giannina,VfB Stuttgart,1
+Júbilo Iwata,VfB Stuttgart,1
+Stade Rennais,VfB Stuttgart,1
+Stuttgart II,VfB Stuttgart,1
+Stuttgart U17,VfB Stuttgart,1
+Stuttgart U19,VfB Stuttgart,1
+SC Paderborn,VfB Stuttgart,1
+FC Schalke 04,VfB Stuttgart,2
+RCD Mallorca,VfB Stuttgart,1
+Dynamo Dresden,VfB Stuttgart,1
+WSG Tirol,VfB Stuttgart,1
+VfB Stuttgart,Wolves,1
+VfB Stuttgart,Nottm Forest,1
+VfB Stuttgart,Burnley,1
+VfB Stuttgart,RCD Mallorca,1
+VfB Stuttgart,Excelsior,1
+VfB Stuttgart,1.FC K'lautern,1
+VfB Stuttgart,Kansas City,1
+VfB Stuttgart,Académico Viseu,1
+VfB Stuttgart,Vitesse,1
+VfB Stuttgart,1.FC Magdeburg,1
+VfB Stuttgart,Nordsjaelland,1
+VfB Stuttgart,Blackburn,1
+VfB Stuttgart,Arm. Bielefeld,1
+VfB Stuttgart,Without Club,1
+VfB Stuttgart,SCR Altach,1
+VfB Stuttgart,Arsenal,1
+VfB Stuttgart,Júbilo Iwata,1
+BSC Young Boys,Hertha BSC,1
+Greuther Fürth,Hertha BSC,2
+Estudiantes,Hertha BSC,1
+Rubin Kazan,Hertha BSC,1
+Everton,Hertha BSC,1
+Birmingham,Hertha BSC,1
+Hertha BSC U19,Hertha BSC,2
+Hertha BSC II,Hertha BSC,1
+CSKA Moscow,Hertha BSC,1
+Valencia,Hertha BSC,1
+PEC Zwolle,Hertha BSC,1
+G. Bordeaux,Hertha BSC,1
+Fiorentina,Hertha BSC,1
+Blackburn,Hertha BSC,1
+KAA Gent,Hertha BSC,1
+Hertha BSC,Royal Antwerp,1
+Hertha BSC,Feyenoord,2
+Hertha BSC,KAA Gent,1
+Hertha BSC,Club Brugge,1
+Hertha BSC,Greuther Fürth,1
+Hertha BSC,St. Louis CITY,1
+Hertha BSC,Salernitana,1
+Hertha BSC,FC Basel,1
+Hertha BSC,FC Schalke 04,2
+Hertha BSC,Bor. Dortmund,1
+Hertha BSC,Werder Bremen,1
+Hertha BSC,Arm. Bielefeld,1
+Hertha BSC,Hansa Rostock,1
+Hertha BSC,Al-Gharafa SC,1
+Hertha BSC,RW Essen,1
+Hertha BSC,FC Utrecht,1
+Hertha BSC,Cremonese,1
+Hertha BSC,Getafe,1
+AZ Alkmaar,FC Schalke 04,1
+E. Frankfurt,FC Schalke 04,1
+1.FC Heidenheim,FC Schalke 04,1
+SC Freiburg II,FC Schalke 04,1
+Montpellier,FC Schalke 04,1
+RW Oberhausen,FC Schalke 04,1
+Jong KAA Gent,FC Schalke 04,1
+Spartak Moscow,FC Schalke 04,2
+Sampdoria,FC Schalke 04,1
+Arm. Bielefeld,FC Schalke 04,1
+Besiktas,FC Schalke 04,2
+Rapid Vienna,FC Schalke 04,1
+Liverpool,FC Schalke 04,1
+Norwich,FC Schalke 04,1
+Karagümrük,FC Schalke 04,1
+FC Ingolstadt,FC Schalke 04,1
+Hansa Rostock,FC Schalke 04,1
+Gaziantep FK,FC Schalke 04,1
+Cercle Brugge,FC Schalke 04,1
+Marseille,FC Schalke 04,1
+FC Schalke 04,AC Milan,1
+FC Schalke 04,TSG Hoffenheim,1
+FC Schalke 04,Rangers,1
+FC Schalke 04,D.C. United,1
+FC Schalke 04,FC Utrecht,1
+FC Schalke 04,Holstein Kiel,1
+FC Schalke 04,OH Leuven,1
+FC Schalke 04,Arm. Bielefeld,2
+FC Schalke 04,Bodø/Glimt,1
+FC Schalke 04,Karagümrük,1
+FC Schalke 04,Marseille,1
+FC Schalke 04,Jahn Regensburg,1
+FC Schalke 04,SC Paderborn,1
+FC Schalke 04,Austria Vienna,1
+FC Schalke 04,Without Club,1
+FC Schalke 04,HJK Helsinki,1
+FC Schalke 04,Zenit II,1
+FC Schalke 04,Ulsan Hyundai,1
+FC Schalke 04,SC Freiburg II,1
+FC Schalke 04,AZ Alkmaar,1
+FC Schalke 04,E. Frankfurt,1
+FC Schalke 04,Sparta Prague,1
+FC Schalke 04,Man City,1
+FC Copenhagen,SV Werder Bremen,1
+Bay. Leverkusen,SV Werder Bremen,1
+Derby,SV Werder Bremen,1
+Sheff Utd,SV Werder Bremen,1
+Hertha BSC,SV Werder Bremen,1
+FC Augsburg U19,SV Werder Bremen,1
+Arm. Bielefeld,SV Werder Bremen,1
+Karlsruher SC,SV Werder Bremen,1
+Nordsjaelland,SV Werder Bremen,1
+Hallescher FC,SV Werder Bremen,1
+Legia Warszawa,SV Werder Bremen,1
+Jahn Regensburg,SV Werder Bremen,1
+SV Werder Bremen,Legia Warszawa,1
+SV Werder Bremen,1.FC Heidenheim,1
+SV Werder Bremen,A. Klagenfurt,1
+SV Werder Bremen,VfB Oldenburg,1
+SV Werder Bremen,Antalyaspor,1
+SV Werder Bremen,SV Elversberg,1
+SV Werder Bremen,Heracles Almelo,1
+SV Werder Bremen,Dynamo Dresden,1
+SV Werder Bremen,Jahn Regensburg,1
+SV Werder Bremen,Without Club,1
+SV Werder Bremen,Bay. Leverkusen,1
+SV Werder Bremen,Dijon,1
+SV Werder Bremen,Bayern Munich,1
+Bor. M'gladbach,Bayern Munich,1
+Man City,Bayern Munich,1
+FC Bayern U19,Bayern Munich,1
+Bayern Munich,Man Utd,1
+RSC Anderlecht,Borussia Dortmund,1
+Union Berlin,Borussia Dortmund,1
+Borussia Dortmund,PSV Eindhoven,1
+Bogotá FC,Bayer 04 Leverkusen,1
+Club Brugge,Bayer 04 Leverkusen,1
+Stade Reims,Bayer 04 Leverkusen,1
+Bayer 04 Leverkusen,Nordsjaelland,1
+Bayer 04 Leverkusen,Atlético-MG,1
+New York RB,RB Leipzig,1
+Viktoria Köln,RB Leipzig,1
+RB Leipzig,SC Paderborn II,1
+RB Leipzig,FC Basel,1
+Celtic,1.FC Union Berlin,1
+Ferencváros,1.FC Union Berlin,1
+VfL Wolfsburg,1.FC Union Berlin,1
+Bohemians,1.FC Union Berlin,1
+1.FC Union Berlin,Bor. Dortmund,1
+1.FC Union Berlin,VfB Stuttgart,1
+1.FC Union Berlin,FC Schalke 04,1
+1.FC Union Berlin,Greifswalder FC,1
+1.FC Union Berlin,Viktoria Berlin,1
+1.FC Union Berlin,Panathinaikos,1
+SC Freiburg,Brentford,1
+SC Freiburg,VfL Bochum,2
+SC Freiburg,Cercle Brugge,1
+Hertha BSC,1. FC Köln,2
+FC Basel,1. FC Köln,1
+1. FC Köln,Jahn Regensburg,1
+1. FC Köln,Hamburger SV,1
+1. FC Köln,Hellas Verona,1
+KAA Gent,1.FSV Mainz 05,1
+1.FSV Mainz 05,FC Schalke 04,2
+1.FSV Mainz 05,Espanyol,1
+1.FSV Mainz 05,SV Elversberg,1
+1.FSV Mainz 05,Lens,1
+Benfica,TSG 1899 Hoffenheim,1
+OGC Nice,TSG 1899 Hoffenheim,1
+Sevilla FC,TSG 1899 Hoffenheim,1
+Hoffenheim II,TSG 1899 Hoffenheim,2
+TSG 1899 Hoffenheim,Leeds,1
+TSG 1899 Hoffenheim,Retired,1
+Montpellier,Borussia Mönchengladbach,1
+Borussia Mönchengladbach,Bayern Munich,1
+Borussia Mönchengladbach,RW Essen,1
+Borussia Mönchengladbach,Sint-Truiden,1
+Philadelphia,Eintracht Frankfurt,1
+FK Dinamo,Eintracht Frankfurt,1
+Eintracht Frankfurt,RB Salzburg,1
+Montpellier,VfL Wolfsburg,1
+VfL Wolfsburg,Fiorentina,1
+VfL Wolfsburg,Union Berlin,1
+VfL Wolfsburg,Werder Bremen,1
+B. Dortmund II,VfL Bochum,1
+Olympiacos,VfL Bochum,1
+VfL Bochum,1.FC Nuremberg,1
+VfL Bochum,Wolfsberger AC,1
+VfL Bochum,Nîmes Olympique,1
+NK Osijek,FC Augsburg,1
+Hajduk Split,FC Augsburg,1
+Stade Brestois,FC Augsburg,1
+Sporting B,FC Augsburg,1
+Club NXT,FC Augsburg,1
+Stade Reims,FC Augsburg,1
+Genoa,FC Augsburg,1
+Salt Lake,FC Augsburg,1
+FC Augsburg,San Jose,1
+FC Augsburg,Vancouver,1
+FC Augsburg,SV Sandhausen,1
+FC Augsburg,Greuther Fürth,1
+FC Augsburg,Bröndby IF,1
+Benfica,VfB Stuttgart,1
+Union Berlin,VfB Stuttgart,1
+SCR Altach,VfB Stuttgart,1
+1.FC Magdeburg,VfB Stuttgart,1
+Arm. Bielefeld,VfB Stuttgart,1
+VfB Stuttgart,Crystal Palace,1
+VfB Stuttgart,Troyes,1
+VfB Stuttgart,San Luis,1
+Ankaragücü,Hertha BSC,1
+FC Utrecht,Hertha BSC,1
+Cremonese,Hertha BSC,1
+Feyenoord,Hertha BSC,1
+Hertha BSC,Jeonbuk Hyundai,1
+Hertha BSC,Aris Saloniki,1
+Hertha BSC,Bodø/Glimt,1
+Hertha BSC,Venezia,1
+Hertha BSC,E. Braunschweig,1
+Hertha BSC,Hellas Verona,1
+Hertha BSC,Estudiantes,1
+Hertha BSC,Stade Reims,1
+Union Berlin,FC Schalke 04,1
+FC Lorient,FC Schalke 04,1
+Stade Brestois,FC Schalke 04,1
+Royal Antwerp,FC Schalke 04,1
+Club Brugge,FC Schalke 04,1
+Schalke 04 II,FC Schalke 04,1
+HJK Helsinki,FC Schalke 04,1
+FC Schalke 04,FC Nantes,1
+FC Schalke 04,1.FC Nuremberg,1
+FC Schalke 04,FC Copenhagen,1
+FC Schalke 04,SV Sandhausen,1
+VfL Wolfsburg,SV Werder Bremen,1
+SV Werder Bremen,1.FC Nuremberg,1
+SV Werder Bremen,1.FC K'lautern,1
+SV Werder Bremen,Millwall,1

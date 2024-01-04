@@ -19,6 +19,9 @@ if __name__=="__main__":
             # only known clubs
             if row["club_involved_name"] == "Unknown":
                 continue
+            # timespan
+            if int(row["year"]) <= 2021:
+                continue 
             # determine direction of transfer
             if row["transfer_movement"] == "out":
                 transfer = (row["club_name"],row["club_involved_name"])
@@ -34,7 +37,7 @@ if __name__=="__main__":
         writer = csv.writer(csvfile)
         writer.writerow(["club_from","club_to","transfers"])
         for item in data.items():
-            if not item[0][1] in allowed_clubs or not item[0][0] in allowed_clubs:
-                continue
+            #if not item[0][1] in allowed_clubs or not item[0][0] in allowed_clubs:
+            #    continue
             writer.writerow([item[0][0], item[0][1], item[1]])
     print(f"Data written to {path_out}")
