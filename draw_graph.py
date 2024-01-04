@@ -18,7 +18,7 @@ def color_blue_weighted(trans, max):
     return "blues9", str(level)
 
 def create_graph(data: list) -> pgv.AGraph:
-    graph = pgv.AGraph(strict=False, directed=True)
+    graph = pgv.AGraph(strict=False, directed=True, outputorder='edgesfirst')
     data.sort(key=lambda item: item["transfers"])
     max_trans = data[len(data)-1]["transfers"]
     for item in data:
@@ -33,7 +33,8 @@ def create_graph(data: list) -> pgv.AGraph:
         # ---- edges ----
         #colorscheme, color = "x11", "black"
         colorscheme, color = color_blue_weighted(trans, max_trans)
-        graph.add_edge(n_from, n_to, weight=trans, color=color, colorscheme=colorscheme)
+        trans /= 2
+        graph.add_edge(n_from, n_to, penwidth=trans, color=color, colorscheme=colorscheme)
     return graph       
 
 if __name__=="__main__":
@@ -43,6 +44,7 @@ if __name__=="__main__":
     path_in = os.path.join("./data_extract", args.inputfile)
 
     graph = create_graph(read_data(path_in))
+    #graph = create_graph(read_data("./data_extract/extract.csv"))
     graph.graph_attr["scale"] = "5"
     graph.draw("drawings/graph_twopi_cbw.pdf", prog="twopi")
 
