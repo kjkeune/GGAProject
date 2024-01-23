@@ -1,6 +1,20 @@
 import os
 import csv
 
+def extract_clubs_in_league() -> dict:
+    club_league = {}
+    for filename in os.listdir("./data"):
+        league = os.path.splitext(filename)[0]
+        if league == "all_data":
+            continue
+        path_in = os.path.join("./data", filename)
+        # read cvs file
+        with open(path_in, errors="ignore") as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                club_league[row["club_name"]] = league
+    return club_league
+
 def extract_league(league, from_year, to_year):
     clubs_trans = {}
     clubs_in_league = set()
